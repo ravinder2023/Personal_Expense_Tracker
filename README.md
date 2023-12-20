@@ -15,5 +15,5 @@ Clear Expenses: Users have the option to clear all recorded expenses.
 
 
 Use this link to use my app.
-https://personalexpensetracker-s8bp7grktitaugcvpe7cis.streamlit.app/ 
 
+https://personalexpensetracker-bymanojanddeeksha.streamlit.app/
